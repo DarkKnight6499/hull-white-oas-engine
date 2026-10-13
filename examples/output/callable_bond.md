@@ -1,0 +1,10 @@
+| metric | value |
+| :- | :- |
+| straight_price_at_oas | 106.33181915 |
+| callable_market_price | 98.53108950 |
+| callable_oas_bp | 25.00000000 |
+| z_spread_bp | 117.97272411 |
+| effective_duration | 3.98593502 |
+| effective_convexity | -28.99287655 |
+| down_price | 98.92239967 |
+| up_price | 98.13692263 |
